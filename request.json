@@ -1,0 +1,11 @@
+{
+  "version": "O.1",
+  "user": {
+    "login": "user-login",
+    "secret-key": "user-key"
+  },
+  "request": {
+    "date-begin": "DDMMYYYY",
+    "date-end": "DDMMYYYY",
+  }
+}
