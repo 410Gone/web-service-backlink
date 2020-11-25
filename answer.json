@@ -1,0 +1,36 @@
+{
+  "version": "O.1",
+  "platform-name": "backlink-provider-name",
+  "backlinks": [
+    {
+      "id": "1337",
+      "id-order": "4242",
+      "price": 13.37,
+      "publish-date": "DDMMYYYY",
+      "url-source": "http://www.backlink-spot.com/url-page.html",
+      "target-url": "https://www.money-site.com/target-url.html",
+      "anchor": "click here",
+      "not-mandatory-metrix": {
+        "index-date": "DDMMYYYY",
+        "TF": "Shopping",
+        "TF-value": "37",
+        "CF-value": "42"
+      }
+    },
+    {
+      "id": 1337,
+      "id-order": "4242",
+      "price": 13.37,
+      "publish-date": "DDMMYYYY",
+      "url-source": "http://www.backlink-spot.com/url-page.html",
+      "target-url": "https://www.money-site.com/target-url.html",
+      "anchor": "click here",
+      "not-mandatory-metrix": {
+        "index-date": "DDMMYYYY",
+        "TF": "Shopping",
+        "TF-value": "37",
+        "CF-value": "42"
+      }
+    }
+  ]
+}
